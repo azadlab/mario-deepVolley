@@ -1,7 +1,7 @@
 # mario-deepVolley
 This is a AI based Mario Volley Ball Game using Deep Reinforcement Learning
 
-![[mario-volley image](MarioDeepVolley.png)](https://www.youtube.com/watch?v=sDEVBsAlFSw&t=63s)
+[![mario-volley image](MarioDeepVolley.png)](https://www.youtube.com/watch?v=sDEVBsAlFSw&t)
 
 This project Depends on the following:
 
